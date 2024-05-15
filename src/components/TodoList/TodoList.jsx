@@ -12,7 +12,6 @@ export const TodoList = ({ todos, handleSetComplete, handleDelete, handleClearCo
             handleSetComplete={handleSetComplete}
             handleDelete={handleDelete}
           />
-
         )
       })}
       <TodoFilters 
